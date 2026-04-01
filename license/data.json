@@ -1,9 +1,9 @@
 {
   "serial": "ABC123",
   "owner": "Customer A",
-  "machine_id": "a9f3c8e21b9d4f7c2e1a",
+  "machine_id": "REAL_SERVER_MACHINE_ID",
   "max_clients": 20,
   "start_ip": "192.168.1.101",
   "status": "active",
-  "signature": "SIGNED_HASH"
+  "signature": "REAL_SIGNATURE"
 }
