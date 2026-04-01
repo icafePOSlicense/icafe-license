@@ -1,1 +1,11 @@
 
+{
+  "licenses": [
+    {
+      "key": "ICAFE-001",
+      "user": "Default Client",
+      "status": "active",
+      "machines": []
+    }
+  ]
+}
