@@ -1,9 +1,9 @@
 {
   "serial": "ABC123",
   "owner": "Customer A",
-  "machine_id": "SERVER-UNIQUE-ID",
+  "machine_id": "a9f3c8e21b9d4f7c2e1a",
   "max_clients": 20,
   "start_ip": "192.168.1.101",
   "status": "active",
-  "signature": "..."
+  "signature": "SIGNED_HASH"
 }
