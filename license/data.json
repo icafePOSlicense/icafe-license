@@ -1,6 +1,7 @@
 {
   "serial": "ABC123",
   "owner": "Customer A",
+  "machine_id": "SERVER-UNIQUE-ID",
   "max_clients": 20,
   "start_ip": "192.168.1.101",
   "status": "active",
