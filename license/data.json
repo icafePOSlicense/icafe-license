@@ -1,10 +1,8 @@
 {
-  "licenses": [
-    {
-      "key": "ICAFE-001",
-      "user": "Default Client",
-      "status": "active",
-      "machines": []
-    }
-  ]
+  "serial": "ABC123",
+  "owner": "Customer A",
+  "max_clients": 20,
+  "start_ip": "192.168.1.101",
+  "status": "active",
+  "signature": "..."
 }
