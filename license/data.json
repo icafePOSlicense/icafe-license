@@ -7,3 +7,13 @@
   "status": "active",
   "signature": "910a437193eee1760d79657fd7dd59f1210c9575c85dd940c3fb2ac1e240e7c1"
 }
+{
+  "serial": "ABC-FA4U-CDVV",
+  "owner": "pong",
+  "machine_id": "d0ba437a11a9585c6d07f78a1bc70d8265217ef649ecd45d1cba4fc6e04dc3ac",
+  "max_clients": 20,
+  "start_ip": "192.168.1.2",
+  "status": "active",
+  "expires_at": "2029-11-22T12:01:00.000Z",
+  "signature": "dcaf3866383197b9a8f57270e319fba778267c28f0995816311c973cbe0af93f"
+}
