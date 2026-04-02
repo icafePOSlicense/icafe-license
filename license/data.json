@@ -8,3 +8,14 @@
   "expires_at": "2029-11-22T12:01:00.000Z",
   "signature": "a2a5ec13f43b13867e73b8e957dc4797ab6f634b12f8bc26301cac69d6a23d2e"
 }
+
+{
+  "serial": "ABC-7RAT-FDE9",
+  "owner": "pong",
+  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "max_clients": 20,
+  "start_ip": "192.168.1.2",
+  "status": "active",
+  "expires_at": "2027-07-31T04:52:00.000Z",
+  "signature": "52cb1f8575bf1b2517598fcc3543939489da276dcefd25bbb17aa309cbc32b61"
+}
