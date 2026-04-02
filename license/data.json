@@ -19,3 +19,13 @@
   "expires_at": "2027-07-31T04:52:00.000Z",
   "signature": "52cb1f8575bf1b2517598fcc3543939489da276dcefd25bbb17aa309cbc32b61"
 }
+{
+  "serial": "ABC-ZBXD-WVT7",
+  "owner": "pong",
+  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "max_clients": 20,
+  "start_ip": "192.168.1.2",
+  "status": "active",
+  "expires_at": "2026-11-11T08:59:00.000Z",
+  "signature": "177489a0d227956b445db2b9d852b9b7b5e8937f3fe1c53e098b6932b1c65f91"
+}
