@@ -1,10 +1,10 @@
 {
-  "serial": "LIC-40D1D218-1494-FAC4-2DD5-7DF9ECE9F4BC",
+  "serial": "ABC-HSJ5-AC0O",
   "owner": "pong",
-  "start_ip": "192.168.1.1",
+  "machine_id": "d0ba437a11a9585c6d07f78a1bc70d8265217ef649ecd45d1cba4fc6e04dc3ac",
   "max_clients": 20,
-  "expiry_date": "2027-04-29",
-  "valid": true,
-  "machine_id": "91c6e068541555a9edd288e9456a2f59",
-  "signature": "30f4097268153d7bbd434da0c9658c0ea872740b3e45fe981e0b62445de5dcd6"
+  "start_ip": "192.168.1.2",
+  "status": "active",
+  "expires_at": "2026-12-18T09:39:00.000Z",
+  "signature": "351f44ad6672a12565de740ec6e206adc3e452397ba20cd8128c974a26ec43a9"
 }
