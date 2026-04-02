@@ -1,10 +1,10 @@
 {
-  "serial": "LIC-37C5A9EC-1584-74ED-72FB-44D568EF9435",
+  "serial": "LIC-2025-001",
   "owner": "pong",
-  "start_ip": "192.168.1.1",
-  "max_clients": 10,
-  "expiry_date": "2026-12-31",
+  "start_ip": "192.168.1.2",
+  "max_clients": 20,
+  "expiry_date": "2027-07-28",
   "valid": true,
   "machine_id": "91c6e068541555a9edd288e9456a2f59",
-  "signature": "ab1ef451074d2351f9407f6f62b2ccd0f479ca0f42d56be449b3b7dcd207a1e7"
+  "signature": "217feabff82ed02e26f56dab3440c4397811b2b91d5b2c6e4cbcaea3f060d93f"
 }
