@@ -8,3 +8,13 @@
   "machine_id": "91c6e068541555a9edd288e9456a2f59",
   "signature": "217feabff82ed02e26f56dab3440c4397811b2b91d5b2c6e4cbcaea3f060d93f"
 }
+{
+  "serial": "LIC-2025-001",
+  "owner": "test",
+  "start_ip": "192.168.1.2",
+  "max_clients": 10,
+  "expiry_date": "2029-12-29",
+  "valid": true,
+  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "signature": "078c3e0a32a602e9cd07e483343fc3ade1ce20cfcb52702f4ae1957e37c6f1c7"
+}
