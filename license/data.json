@@ -29,3 +29,13 @@
   "expires_at": "2026-11-11T08:59:00.000Z",
   "signature": "177489a0d227956b445db2b9d852b9b7b5e8937f3fe1c53e098b6932b1c65f91"
 }
+{
+  "serial": "ZHZZ-1RU0-IJVI",
+  "owner": "pong",
+  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "max_clients": 20,
+  "start_ip": "192.168.1.2",
+  "expiry_date": "2026-07-30",
+  "valid": true,
+  "signature": "7e7c6ac8abf276078ec0a8e515243201a504fbe9b4d2269aa9762b5183f279b4"
+}
