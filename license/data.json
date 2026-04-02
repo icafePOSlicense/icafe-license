@@ -1,10 +1,10 @@
 {
-  "serial": "ABC-ZEUE-3FOE",
+  "serial": "ABC-J106-Q7T3",
   "owner": "pong",
   "machine_id": "d0ba437a11a9585c6d07f78a1bc70d8265217ef649ecd45d1cba4fc6e04dc3ac",
   "max_clients": 20,
   "start_ip": "192.168.1.2",
   "status": "active",
-  "expires_at": "2027-07-31T04:52:00.000Z",
-  "signature": "97f00c63baefbc7728990216a203b065cbea1f43e932c74ec7a2cf1163913e6f"
+  "expires_at": "2029-11-22T12:01:00.000Z",
+  "signature": "a2a5ec13f43b13867e73b8e957dc4797ab6f634b12f8bc26301cac69d6a23d2e"
 }
