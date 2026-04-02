@@ -1,20 +1,10 @@
 {
-  "serial": "75A3-UNPL-7JJW",
+  "serial": "LIC-2026-839",
   "owner": "pong",
-  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "start_ip": "192.168.1.1",
   "max_clients": 10,
-  "start_ip": "192.168.1.2",
-  "status": "active",
-  "expires_at": "2026-05-28T12:00:00.000Z",
-  "signature": "142e4803bd4621b850ef41c3ceffeff093ec85bc2775bfe314cd7fb831faed68"
-}
-{
-  "serial": "ABC-Q1OG-DL5A",
-  "owner": "pong",
+  "expiry_date": "2027-05-06",
+  "valid": true,
   "machine_id": "b664bb1f284edb51c2c9effa1dbfb5f4edb5b332ef90ba8acdf2142567d113d7",
-  "max_clients": 20,
-  "start_ip": "192.168.1.2",
-  "status": "active",
-  "expires_at": "2026-09-12T12:15:00.000Z",
-  "signature": "e8a595d7cc70c672455ec64b5388278813a561e46c6c9b0d6f3679b4026d10dd"
+  "signature": "b478e29699b7a388290a77b580ac665ad94af8d4713c33cc7203671113439346"
 }
