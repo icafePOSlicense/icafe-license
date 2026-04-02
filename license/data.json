@@ -1,10 +1,10 @@
 {
-  "serial": "LIC-2025-001",
-  "owner": "test",
-  "start_ip": "192.168.1.2",
-  "max_clients": 10,
-  "expiry_date": "2029-12-29",
-  "valid": true,
+  "serial": "75A3-UNPL-7JJW",
+  "owner": "pong",
   "machine_id": "91c6e068541555a9edd288e9456a2f59",
-  "signature": "078c3e0a32a602e9cd07e483343fc3ade1ce20cfcb52702f4ae1957e37c6f1c7"
+  "max_clients": 10,
+  "start_ip": "192.168.1.2",
+  "status": "active",
+  "expires_at": "2026-05-28T12:00:00.000Z",
+  "signature": "142e4803bd4621b850ef41c3ceffeff093ec85bc2775bfe314cd7fb831faed68"
 }
