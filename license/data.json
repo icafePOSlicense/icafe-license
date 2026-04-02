@@ -1,10 +1,10 @@
 {
-  "serial": "LIC-2026-839",
+  "serial": "LIC-2026-886",
   "owner": "pong",
-  "start_ip": "192.168.1.1",
-  "max_clients": 10,
-  "expiry_date": "2027-05-06",
+  "start_ip": "192.168.1.2",
+  "max_clients": 20,
+  "expiry_date": "2026-12-31",
   "valid": true,
-  "machine_id": "b664bb1f284edb51c2c9effa1dbfb5f4edb5b332ef90ba8acdf2142567d113d7",
-  "signature": "b478e29699b7a388290a77b580ac665ad94af8d4713c33cc7203671113439346"
+  "machine_id": "91c6e068541555a9edd288e9456a2f59",
+  "signature": "6f8e4248bf0c19db70f40d957ba65320b29bbfe69d8d004680933a07e602360f"
 }
