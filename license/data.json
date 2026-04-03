@@ -18,5 +18,15 @@
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
     "signature": "a38aa86d1e1226a2198032518f2c51848957d1238d0a7684c8ef75ae3a2d23b8"
+  },
+  {
+    "serial": "LIC-2026-178",
+    "owner": "palpal",
+    "start_ip": "192.168.1.2",
+    "max_clients": 100,
+    "expiry_date": "2027-04-03",
+    "valid": true,
+    "machine_id": "2342342343243434343432432423",
+    "signature": "0df45e20f9b5f090a6cf683ff04a023a70e9b6a3e11571cf34fedabd52712166"
   }
 ]
