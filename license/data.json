@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "serial": "LIC-2026-514",
+    "owner": "logan",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-04-03",
+    "valid": true,
+    "machine_id": "91c6e068541555a9edd288e9456a2f59",
+    "signature": "adeff573c3f4481ebadb983fcf2f2698fa725df432fad19de1f629564d6aac77"
+  }
+]
