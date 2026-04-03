@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
     "signature": "7aa7f70e3d4dd06cf61e32f669297c467423765508e3961ab5c0a8cda34e4a09"
+  },
+  {
+    "serial": "LIC-2026-905",
+    "owner": "pong",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-04-03",
+    "valid": true,
+    "machine_id": "91c6e068541555a9edd288e9456a2f59",
+    "signature": "a38aa86d1e1226a2198032518f2c51848957d1238d0a7684c8ef75ae3a2d23b8"
   }
 ]
