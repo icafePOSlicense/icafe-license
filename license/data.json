@@ -18,25 +18,5 @@
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
     "signature": "40f578e31c27e6a0b397a29f9b7c95352a258d3e15977a97336aac7d846e6d62"
-  },
-  {
-    "serial": "LIC-2026-720",
-    "owner": "",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "",
-    "valid": true,
-    "machine_id": "",
-    "signature": "6d2723081a432143540c7adaee870aaf80a75a900d13bc612dfb70653df0892a"
-  },
-  {
-    "serial": "LIC-2026-489",
-    "owner": "pogi",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "2026-04-30",
-    "valid": true,
-    "machine_id": "",
-    "signature": "e22b48b2364f6f3522a56045164b42ad9db42bd49010801d920fc3a6e10de878"
   }
 ]
