@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
     "signature": "11e1d24d244f350192970000f5cbbc432bb6512755e3685a0e462a835d71a2f7"
+  },
+  {
+    "serial": "LIC-2026-238",
+    "owner": "pogi",
+    "start_ip": "192.168.1.2",
+    "max_clients": 100,
+    "expiry_date": "2027-04-03",
+    "valid": true,
+    "machine_id": "12321312312312312312312312312",
+    "signature": "2259830e3412d3263581098d7c790fdbb7a9829acbcd4fd65c6b4b1dcb2385a4"
   }
 ]
