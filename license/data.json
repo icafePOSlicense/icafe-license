@@ -18,25 +18,5 @@
     "valid": true,
     "machine_id": "32254235235353532532",
     "signature": "8fdfa6f9334d53a7a948ff5bfc95ea449bc53bbd69cb659834f677db939e62d8"
-  },
-  {
-    "serial": "LIC-2026-191",
-    "owner": "pong",
-    "start_ip": "192.168.1.2",
-    "max_clients": 100,
-    "expiry_date": "2027-04-04",
-    "valid": true,
-    "machine_id": "91c6e068541555a9edd288e9456a2f59",
-    "signature": "a48ff6ed810aa4d8623212c53a541ef1c87b51cce0f989107cd099b25fe9885a"
-  },
-  {
-    "serial": "LIC-2026-809",
-    "owner": "pong",
-    "start_ip": "192.168.1.2",
-    "max_clients": 100,
-    "expiry_date": "2027-04-04",
-    "valid": true,
-    "machine_id": "91c6e068541555a9edd288e9456a2f59",
-    "signature": "ceeebfa344ac3b45db8af4dc39e061b87f007bf62f2b00d57a36ae636151805f"
   }
 ]
