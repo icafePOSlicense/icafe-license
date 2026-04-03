@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "serial": "LIC-2026-243",
+    "owner": "pong",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-04-04",
+    "valid": true,
+    "machine_id": "123123123123333333312312312",
+    "signature": "41e4a7dace409a03a639498f20f3c632a5626a9cbb4493014312f659f8331d0d"
+  }
+]
