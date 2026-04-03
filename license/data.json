@@ -1,20 +1,32 @@
-{
-  "serial": "LIC-2026-886",
-  "owner": "pong",
-  "start_ip": "192.168.1.2",
-  "max_clients": 20,
-  "expiry_date": "2026-12-31",
-  "valid": true,
-  "machine_id": "91c6e068541555a9edd288e9456a2f59",
-  "signature": "6f8e4248bf0c19db70f40d957ba65320b29bbfe69d8d004680933a07e602360f"
-}
-{
-  "serial": "LIC-2026-579",
-  "owner": "pong",
-  "start_ip": "192.168.1.2",
-  "max_clients": 20,
-  "expiry_date": "2027-09-16",
-  "valid": true,
-  "machine_id": "91c6e068541555a9edd288e9456a2f59",
-  "signature": "40f578e31c27e6a0b397a29f9b7c95352a258d3e15977a97336aac7d846e6d62"
-}
+[
+  {
+    "serial": "LIC-2026-886",
+    "owner": "pong",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2026-12-31",
+    "valid": true,
+    "machine_id": "91c6e068541555a9edd288e9456a2f59",
+    "signature": "6f8e4248bf0c19db70f40d957ba65320b29bbfe69d8d004680933a07e602360f"
+  },
+  {
+    "serial": "LIC-2026-579",
+    "owner": "pong",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-09-16",
+    "valid": true,
+    "machine_id": "91c6e068541555a9edd288e9456a2f59",
+    "signature": "40f578e31c27e6a0b397a29f9b7c95352a258d3e15977a97336aac7d846e6d62"
+  },
+  {
+    "serial": "LIC-2026-720",
+    "owner": "",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "",
+    "valid": true,
+    "machine_id": "",
+    "signature": "6d2723081a432143540c7adaee870aaf80a75a900d13bc612dfb70653df0892a"
+  }
+]
