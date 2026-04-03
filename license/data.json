@@ -6,7 +6,7 @@
     "max_clients": 100,
     "expiry_date": "2027-04-04",
     "valid": true,
-    "machine_id": "",
-    "signature": "2b2d71f09416350a52cc977f504ad096aec9d90436cb014578131dcc9182970e"
+    "machine_id": "91c6e068541555a9edd288e9456a2f59",
+    "signature": "e4e729b4c7652666b20ce9b149bec31c72fa42ce8d453fa74f813db9fd1dba31"
   }
 ]
