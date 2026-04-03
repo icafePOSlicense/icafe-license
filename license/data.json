@@ -1,12 +1,12 @@
 [
   {
-    "serial": "LIC-2026-145",
-    "owner": "pogi",
+    "serial": "LIC-2026-123",
+    "owner": "logan",
     "start_ip": "192.168.1.2",
     "max_clients": 20,
     "expiry_date": "2027-04-03",
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
-    "signature": "a5a763f4b67c42bc320628d98d0f5b584547887a82420878eb52f4db07bf1a55"
+    "signature": "a4278bdca3e46dcf806fc8dfb4d342103fb1263b8f43e862ed35a6352f6e93f7"
   }
 ]
