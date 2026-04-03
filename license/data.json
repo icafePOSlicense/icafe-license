@@ -18,5 +18,15 @@
     "valid": true,
     "machine_id": "32542352353425235235325235235",
     "signature": "25ac80866001ecb59abeda916ac4d5fc42dd429416523f33af51e5e923ca4533"
+  },
+  {
+    "serial": "LIC-2026-356",
+    "owner": "walwal",
+    "start_ip": "192.168.1.10",
+    "max_clients": 30,
+    "expiry_date": "2026-05-03",
+    "valid": true,
+    "machine_id": "23453452345345345345345345345",
+    "signature": "694b00adf1da04d27de626011ede559e0a3620e8ab2d0ea4b77a5cd6fb186dbc"
   }
 ]
