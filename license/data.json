@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "234234234234234234234234234243",
     "signature": "8f8c1d4a8a136f89d22cd61b26efb0dc4d70675a432e25bb858cac8c36cec97b"
+  },
+  {
+    "serial": "LIC-2026-711",
+    "owner": "dodoy",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-04-03",
+    "valid": true,
+    "machine_id": "32542352353425235235325235235",
+    "signature": "25ac80866001ecb59abeda916ac4d5fc42dd429416523f33af51e5e923ca4533"
   }
 ]
