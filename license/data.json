@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
     "signature": "8ed1fbcf4e6dee13dae7e673c2fed12944e9146e5a12988004a5cdcd317f56c8"
+  },
+  {
+    "serial": "LIC-2026-508",
+    "owner": "tomtom",
+    "start_ip": "192.168.1.2",
+    "max_clients": 50,
+    "expiry_date": "2027-04-04",
+    "valid": true,
+    "machine_id": "123423423452352335235235235235235",
+    "signature": "2cbbf4c9ea459538172c65691b8b222ed29f4c2393be9877d4550a5a54e18843"
   }
 ]
