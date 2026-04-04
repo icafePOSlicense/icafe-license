@@ -1,22 +1,12 @@
 [
   {
-    "serial": "LIC-2026-728",
+    "serial": "LIC-2026-561",
     "owner": "pong",
     "start_ip": "192.168.1.2",
-    "max_clients": 100,
+    "max_clients": 20,
     "expiry_date": "2027-04-04",
     "valid": true,
     "machine_id": "91c6e068541555a9edd288e9456a2f59",
-    "signature": "e4e729b4c7652666b20ce9b149bec31c72fa42ce8d453fa74f813db9fd1dba31"
-  },
-  {
-    "serial": "LIC-2026-373",
-    "owner": "tomtom",
-    "start_ip": "192.168.1.2",
-    "max_clients": 10,
-    "expiry_date": "2026-05-04",
-    "valid": true,
-    "machine_id": "23535345645645654674567676457",
-    "signature": "0ff7cdd1381e2e70b71a89880af098f06b518a189abae396a464f576610d6034"
+    "signature": "8ed1fbcf4e6dee13dae7e673c2fed12944e9146e5a12988004a5cdcd317f56c8"
   }
 ]
