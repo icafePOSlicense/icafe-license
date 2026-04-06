@@ -18,5 +18,15 @@
     "valid": true,
     "machine_id": "345345345345345345345345",
     "signature": "b2eb41b50901ab305b6c0b748b468c075ea03780ab37b69901bc895d2c80fefa"
+  },
+  {
+    "serial": "LIC-2026-613",
+    "owner": "hideout",
+    "start_ip": "192.168.1.200",
+    "max_clients": 20,
+    "expiry_date": "2026-04-13",
+    "valid": true,
+    "machine_id": "657f59c45e5f85314d8e0d6345d238c4",
+    "signature": "1590814c92392f833a78c4d6f9790fef28e06ef443479a8a6e587c78da71d823"
   }
 ]
