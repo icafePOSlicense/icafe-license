@@ -1,32 +1,12 @@
 [
   {
-    "serial": "LIC-2026-561",
-    "owner": "pong",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "2027-04-04",
-    "valid": true,
-    "machine_id": "91c6e068541555a9edd288e9456a2f59",
-    "signature": "3513f81d7d3776066f541306e611fbb40764016131b3b951e793ddf476069180"
-  },
-  {
-    "serial": "LIC-2026-508",
-    "owner": "tomtom",
-    "start_ip": "192.168.1.2",
-    "max_clients": 50,
-    "expiry_date": "2027-04-04",
-    "valid": true,
-    "machine_id": "123423423452352335235235235235235",
-    "signature": "2cbbf4c9ea459538172c65691b8b222ed29f4c2393be9877d4550a5a54e18843"
-  },
-  {
-    "serial": "LIC-2026-258",
-    "owner": "mc3d marikina",
-    "start_ip": "192.168.10.101",
+    "serial": "LIC-2026-991",
+    "owner": "hideout",
+    "start_ip": "192.168.1.200",
     "max_clients": 100,
     "expiry_date": "2027-04-06",
     "valid": true,
-    "machine_id": "3d65d259206b7cc4185eb9871712b85d",
-    "signature": "08891d94722569b9941bdca7e02c74407ca2bf5080fe03d22399f33615d2cfed"
+    "machine_id": "",
+    "signature": "8c2c957e9f1c910fa4beaadbb8782adaaab15400b43f1990ab6a2fb6f5145e1e"
   }
 ]
