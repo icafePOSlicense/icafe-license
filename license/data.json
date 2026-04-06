@@ -1,12 +1,12 @@
 [
   {
-    "serial": "LIC-2026-991",
-    "owner": "hideout",
-    "start_ip": "192.168.1.200",
-    "max_clients": 100,
-    "expiry_date": "2027-04-06",
+    "serial": "LIC-2026-939",
+    "owner": "tomtom",
+    "start_ip": "192.168.1.2",
+    "max_clients": 10,
+    "expiry_date": "2026-04-13",
     "valid": true,
     "machine_id": "",
-    "signature": "8c2c957e9f1c910fa4beaadbb8782adaaab15400b43f1990ab6a2fb6f5145e1e"
+    "signature": "b7b956b3cd6eb5570d00f6e81539c4edb5018c49eb285db33bc4a063318ba694"
   }
 ]
