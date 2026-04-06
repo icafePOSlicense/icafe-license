@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "",
     "signature": "b7b956b3cd6eb5570d00f6e81539c4edb5018c49eb285db33bc4a063318ba694"
+  },
+  {
+    "serial": "LIC-2026-356",
+    "owner": "test",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2026-04-13",
+    "valid": true,
+    "machine_id": "345345345345345345345345",
+    "signature": "b2eb41b50901ab305b6c0b748b468c075ea03780ab37b69901bc895d2c80fefa"
   }
 ]
