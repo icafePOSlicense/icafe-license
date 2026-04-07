@@ -1,13 +1,13 @@
 [
   {
-    "serial": "LIC-2026-188",
+    "serial": "LIC-2026-161",
     "owner": "ROW 4 GAMEZONE",
     "start_ip": "192.168.10.101",
-    "max_clients": 70,
+    "max_clients": 100,
     "expiry_date": "2027-04-07",
     "valid": true,
-    "machine_id": "036e1PbWWqgKDBDorh525uecKaGZD21FGSoCeR",
-    "signature": "fc4db9c7ed24dd656850299fdb7d5ec3415e5f6da74c8f5aae2ec94589ad6297"
+    "machine_id": "036e11c44f2ba8ed1823de6c9fdf8d23",
+    "signature": "838132476042526b0edc0d305875ef8647f68151c49aa944c419021115be2fee"
   },
   {
     "serial": "LIC-2026-280",
