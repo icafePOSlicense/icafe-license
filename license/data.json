@@ -1,32 +1,12 @@
 [
   {
-    "serial": "LIC-2026-939",
-    "owner": "tomtom",
-    "start_ip": "192.168.1.2",
-    "max_clients": 10,
-    "expiry_date": "2026-04-13",
+    "serial": "LIC-2026-188",
+    "owner": "ROW 4 GAMEZONE",
+    "start_ip": "192.168.10.101",
+    "max_clients": 70,
+    "expiry_date": "2027-04-07",
     "valid": true,
-    "machine_id": "",
-    "signature": "b7b956b3cd6eb5570d00f6e81539c4edb5018c49eb285db33bc4a063318ba694"
-  },
-  {
-    "serial": "LIC-2026-356",
-    "owner": "test",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "2026-04-13",
-    "valid": true,
-    "machine_id": "345345345345345345345345",
-    "signature": "b2eb41b50901ab305b6c0b748b468c075ea03780ab37b69901bc895d2c80fefa"
-  },
-  {
-    "serial": "LIC-2026-613",
-    "owner": "hideout",
-    "start_ip": "192.168.1.200",
-    "max_clients": 20,
-    "expiry_date": "2026-04-13",
-    "valid": true,
-    "machine_id": "657f59c45e5f85314d8e0d6345d238c4",
-    "signature": "1590814c92392f833a78c4d6f9790fef28e06ef443479a8a6e587c78da71d823"
+    "machine_id": "036e1PbWWqgKDBDorh525uecKaGZD21FGSoCeR",
+    "signature": "fc4db9c7ed24dd656850299fdb7d5ec3415e5f6da74c8f5aae2ec94589ad6297"
   }
 ]
