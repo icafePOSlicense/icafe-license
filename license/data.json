@@ -1,22 +1,12 @@
 [
   {
-    "serial": "LIC-2026-161",
-    "owner": "ROW 4 GAMEZONE",
+    "serial": "LIC-2026-753",
+    "owner": "Mavis Esports",
     "start_ip": "192.168.10.101",
-    "max_clients": 100,
-    "expiry_date": "2027-04-07",
+    "max_clients": 30,
+    "expiry_date": "2027-04-10",
     "valid": true,
-    "machine_id": "036e11c44f2ba8ed1823de6c9fdf8d23",
-    "signature": "838132476042526b0edc0d305875ef8647f68151c49aa944c419021115be2fee"
-  },
-  {
-    "serial": "LIC-2026-280",
-    "owner": "pong",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "2027-04-07",
-    "valid": true,
-    "machine_id": "657f59c45e5f85314d8e0d6345d238c4",
-    "signature": "4510225edd31ed26eaf0798b14b5adff7d1b5a689d2aed2fdfb7fd6a8bb34d30"
+    "machine_id": "c7c9c5987e7f39339762e6253092a5cb",
+    "signature": "610faf65b6b8e3bd6248ce623c1a020f44b53707951f7cb559afe08e0ed7d039"
   }
 ]
