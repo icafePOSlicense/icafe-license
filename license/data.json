@@ -8,15 +8,5 @@
     "valid": true,
     "machine_id": "c7c9c5987e7f39339762e6253092a5cb",
     "signature": "610faf65b6b8e3bd6248ce623c1a020f44b53707951f7cb559afe08e0ed7d039"
-  },
-  {
-    "serial": "LIC-2026-764",
-    "owner": "totom",
-    "start_ip": "192.168.1.2",
-    "max_clients": 20,
-    "expiry_date": "2027-04-10",
-    "valid": true,
-    "machine_id": "wqeq2423423423423423423423423",
-    "signature": "4580246bae98a047bad3ad79d8360294ef1ec4887457d9c56bc84ebcdbf6a555"
   }
 ]
