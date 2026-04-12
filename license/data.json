@@ -8,5 +8,15 @@
     "valid": true,
     "machine_id": "c7c9c5987e7f39339762e6253092a5cb",
     "signature": "610faf65b6b8e3bd6248ce623c1a020f44b53707951f7cb559afe08e0ed7d039"
+  },
+  {
+    "serial": "LIC-2026-206",
+    "owner": "popo",
+    "start_ip": "192.168.1.2",
+    "max_clients": 50,
+    "expiry_date": "2027-04-12",
+    "valid": true,
+    "machine_id": "f5c9b0fb378b16c746f8e30da699f64f",
+    "signature": "88abe61fefa3785d5201e8a2c72f105e5092499214ad78c94ec1253179969625"
   }
 ]
