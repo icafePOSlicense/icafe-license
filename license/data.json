@@ -18,5 +18,15 @@
     "valid": true,
     "machine_id": "f5c9b0fb378b16c746f8e30da699f64f",
     "signature": "88abe61fefa3785d5201e8a2c72f105e5092499214ad78c94ec1253179969625"
+  },
+  {
+    "serial": "LIC-2026-325",
+    "owner": "tonton",
+    "start_ip": "192.168.1.2",
+    "max_clients": 50,
+    "expiry_date": "2027-04-12",
+    "valid": true,
+    "machine_id": "657f59c45e5f85314d8e0d6345d238c4",
+    "signature": "bd146563edb3a12cc5e19105605baa06b6c9cff01d701420f72619aeef4b16fc"
   }
 ]
