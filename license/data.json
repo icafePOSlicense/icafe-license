@@ -28,5 +28,15 @@
     "valid": true,
     "machine_id": "657f59c45e5f85314d8e0d6345d238c4",
     "signature": "bd146563edb3a12cc5e19105605baa06b6c9cff01d701420f72619aeef4b16fc"
+  },
+  {
+    "serial": "LIC-2026-477",
+    "owner": "mc3d monumento",
+    "start_ip": "192.168.10.101",
+    "max_clients": 100,
+    "expiry_date": "2027-04-12",
+    "valid": true,
+    "machine_id": "ec58811cc1a6c92669ae10f0b85f7652",
+    "signature": "838584fa572e2f587c9eae6a489f3c17ea5f5ff53d43097f646cf42cc905d6c4"
   }
 ]
