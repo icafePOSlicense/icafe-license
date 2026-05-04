@@ -38,5 +38,15 @@
     "valid": true,
     "machine_id": "ec58811cc1a6c92669ae10f0b85f7652",
     "signature": "838584fa572e2f587c9eae6a489f3c17ea5f5ff53d43097f646cf42cc905d6c4"
+  },
+  {
+    "serial": "LIC-2026-113",
+    "owner": "pongpogi",
+    "start_ip": "192.168.1.2",
+    "max_clients": 20,
+    "expiry_date": "2027-05-04",
+    "valid": true,
+    "machine_id": "94f4d8e183d02a18c601aeccd95b7d03",
+    "signature": "40227f78113ef04a4d6aea0c5ec2c15168b43fd7858f5f1c909555dcd11c4722"
   }
 ]
