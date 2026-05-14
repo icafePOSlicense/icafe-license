@@ -48,5 +48,15 @@
     "valid": true,
     "machine_id": "94f4d8e183d02a18c601aeccd95b7d03",
     "signature": "40227f78113ef04a4d6aea0c5ec2c15168b43fd7858f5f1c909555dcd11c4722"
+  },
+  {
+    "serial": "LIC-2026-270",
+    "owner": "MC3D MORAYTA",
+    "start_ip": "192.168.10.101",
+    "max_clients": 100,
+    "expiry_date": "2027-05-14",
+    "valid": true,
+    "machine_id": "4281c18c57323c014652ca3514d527a0",
+    "signature": "419831c5504e574c085495a193efdc7988defc0662f0b618b2045a79500e1ffd"
   }
 ]
